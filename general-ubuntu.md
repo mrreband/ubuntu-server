@@ -1,10 +1,4 @@
-First update everything: 
-
-```bash
-sudo apt update; sudo apt upgrade -y; sudo apt autoremove -y
-```
-
----
+## Useful commands and concepts
 
 systemctl
 

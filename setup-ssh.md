@@ -29,7 +29,7 @@ To connect a client to this server, create a separate key-value pair on the clie
 
   `ssh-copy-id -i ~/.ssh/id_rsa.pub user@remote-host`
 
-- if your client is windows, copy the contents of id_rsa.pub and paste it into authorized_keys
+- if your client is windows, copy the contents of id_rsa.pub and paste it into authorized_keys.  Or see [this SO answer](https://serverfault.com/a/583659/749661)
   
   `vi ~/.ssh/authorized_keys`
 

@@ -3,9 +3,11 @@
 
 Steps to setup Ubuntu 20.04, after a fresh install
 
-1. setup ubuntu: 
+1. first update everything: 
 
-   - [setup-ubuntu](setup-ubuntu.md)
+      ```bash
+      sudo apt update; sudo apt upgrade -y; sudo apt autoremove -y
+      ```
 
 2. setup ssh: 
    
