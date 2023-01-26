@@ -3,11 +3,9 @@
 
 Steps to setup Ubuntu 20.04, after a fresh install
 
-1. update everything
+1. setup ubuntu: 
 
-    ```bash
-    sudo apt update; sudo apt upgrade -y; sudo apt autoremove -y
-    ```
+   - [setup-ubuntu](setup-ubuntu.md)
 
 2. setup ssh: 
    
@@ -37,3 +35,4 @@ Steps to setup Ubuntu 20.04, after a fresh install
 
 7. setup ad-blocking dns
    - pihole: [setup-pihole.sh](setup-pihole.sh)
+

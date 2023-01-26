@@ -1,3 +1,7 @@
+# Create an empty .hushlogin file turn off login info: 
+touch ~/.hushlogin
+
+
 ####################################################
 # install zsh
 ####################################################
